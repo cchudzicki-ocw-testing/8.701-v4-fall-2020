@@ -1,0 +1,32 @@
+leftnav:
+- identifier: a33c9d17-2121-47f9-b9b0-c4675bf2f4e0
+  name: Syllabus
+  url: /resources/syllabus
+  weight: 10
+- identifier: 255bc2a4-981a-45cd-b1c3-c996fdb23d20
+  name: Lecture Videos
+  url: /pages/test
+  weight: 20
+- identifier: 9db9beaf-16dc-4006-a49d-5819f1b63144
+  name: 1. Fermions, Bosons, and Fields
+  url: /video_galleries/1-fermions-bosons-and-fields
+  weight: 30
+- identifier: dc9e888d-7cd9-46c6-9ae6-356280b7a5c1
+  name: Flat page
+  url: /pages/force-publish
+  weight: 40
+- identifier: f4f8499d-5c5f-431f-9f4a-6d7722a9a6f1
+  name: Table Test
+  parent: 255bc2a4-981a-45cd-b1c3-c996fdb23d20
+  url: /pages/tables
+  weight: 10
+- identifier: 96c731cd-b529-434b-b7cd-a28ca2664b41
+  name: Week 3
+  parent: 255bc2a4-981a-45cd-b1c3-c996fdb23d20
+  url: /pages/week-3
+  weight: 20
+- identifier: aea8b8fc-2b96-44ed-827e-93a2ccb3db6f
+  name: Big Table
+  parent: 9db9beaf-16dc-4006-a49d-5819f1b63144
+  url: /pages/test-113
+  weight: 10
